@@ -1,0 +1,459 @@
+
+=== PAGE 1 ===
+
+
+=== PAGE 2 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+1 DDC001 Absolute Eosinophil CountHaematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 60 150
+2 DDC002 Absolute Lymphocyte CountHaematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 60 150
+3 DDC003 Absolute Neutrophil CountHaematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 60 150
+4 DDC004 Activated Partial Thromboplastin 
+Time (APTT/PTT) ImmunohaematologyClotting Citrated Plasma (l ml) F Daily 10 hours 100 200
+5 DDC005 Adreno Corticotrophic Hormone 
+(ACTH) Immunology Chemiluminescence Plasma-EDTA (2ml) F Daily 10 hours 600 1100
+6 DDC006 Alanine Transaminase 
+(ALT/SGPT) Biochemistry Spectrophotometry Serum (1 ml) R Daily 10 hours 50 100
+7 DDC007 Albumin Biochemistry Spectrophotometry Serum (1 ml) R Daily 10 hours 50 100
+8 DDC008 Albumin/Creatinine Ratio Biochemistry Spectrophotometry Urine (5 m1) A Daily 10 hours 100 200
+9 DDC009 Aldolase Biochemistry Spectrophotometry Serum (1 ml) R/F Daily 10 hours 500 600
+10 DDC010 Alkaline Phosphatase (ALP)Biochemistry Spectrophotometry Serum (1 ml) R Daily 10 hours 50 100
+11 DDC011 Alpha Feto Protein (AFP) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 200 350
+12 DDC012 Alpha Feto Protein (AFP) Immunology Chemiluminescence Amniotic Fluid (1in1) A/R Daily 10 hours 200 350
+13 DDC013 Alpha-1 Antitrypsin (AAT)Biochemistry Immunoturbidometry / 
+Nephlometry Serum (1 ml) A/R Daily 10 hours 800 1400
+14 DDC014 Ammonia Biochemistry Spectrophotometry Plasma- Na. Heparin (1 ml)F Daily 10 hours 600 700
+15 DDC015 Amphetamine Biochemistry Immuno Chromotography Urine - Random (5ml) A Daily 10 hours 300 500
+16 DDC016 Amylase Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 100 200
+17 DDC017 Amylase Biochemistry Spectrophotometry Urine (5 ml) A/R Daily 10 hours 100 200
+18 DDC018 Amylase Biochemistry Spectrophotometry Body Fluid (1 ml) A/R Daily 10 hours 100 200
+19 DDC019 Androstenedione (A4) Immunology ELISA Serum (1 ml) A/R Daily 10 hours 550 700
+20 DDC020 Angiotensin Converting Enzyme 
+(ACE) Biochemistry Spectrophotometry Serum (1 ml) R/F Daily 10 hours 500 700
+21 DDC021 Anti MicrosomaLThyroperoxidase 
+Antibody (AMA) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 400 500
+22 DDC022 Anti Mullarian Hormone Immunology ELISA Serum (1 ml) A/R Daily 24 hours 900 1900
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+
+
+=== PAGE 3 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+23 DDC023 Anti Nuclear Antibody Immunology ELISA Serum (1 ml) A/R Daily 24 hours 200 300
+24 DDC024 Anti Phospholipid  Antibody IgGImmunology ELISA Serum (1 ml) A/R Daily 24 hours 250 350
+25 DDC025 Anti Phospholipid  Antibody IgMImmunology ELISA Serum (1 ml) A/R Daily 24 hours 250 350
+26 DDC026 Anti Thyroglobulin  Antibody 
+(ATG) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 350 500
+27 DDC027 Apolipoprotein Al  (APO-AI)Biochemistry Immunoturbidometry Serum (1 ml) A/R Daily 10 hours 250 350
+28 DDC028 Apolipoprotein B (APO-B)Biochemistry Immunoturbidometry Serum (1 ml) A/R Daily 10 hours 250 350
+29 DDC029 ASO Titres (Anti Streptolysin O)Serology Immunoturbidometry Serum (1 ml) A/R Daily 10 hours 140 300
+30 DDC030 Aspartate Aminotransferase 
+(AST/SGOT) Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+31 DDC031 Barbiturates Biochemistry Immuno Chromotography Urine - Random (5 ml) A/R Daily 10 hours 300 500
+32 DDC032 Bence Jones Protein (BJ Protein)Biochemistry Biochemical Urine - Random (5 ml) A/R Daily 10 hours 175 350
+33 DDC033 Benzodiazepines Biochemistry Immuno Chromotography Urine - Random (5ml) A/R Daily 10 hours 300 500
+34 DDC034 Beta Human Chorionic 
+Gonodotropin Hormone Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 170 400
+35 DDC035 Beta Human Chorionic 
+Gonodotropin Hormone Immunology Chemiluminescence Urine (5 ml) A/R Daily 10 hours 170 400
+36 DDC036 Beta Human Chorionic 
+Gonodotropin Hormone (Free)Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 600 1100
+37 DDC037 Beta Human Chorionic 
+Gonodotropin Hormone TitreImmunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 400 500
+38 DDC038 Bilirubin (Total + Direct) Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 100 200
+39 DDC039 Bilirubin Direct Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+40 DDC040 Bilirubin Total Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+41 DDC041 Blood Grouping (A,B,O) and Rh 
+factor Haematology Slide/Tube method WB-EDTA (3 ml) A Daily 10 hours 50 100
+42 DDC042 Blood Picture - Peripheral Smear 
+Examination Haematology Cell Counter/ MicroscopyWB EDTA (3 m1) / Smear 
+Slides A Daily 10 hours 85 150
+43 DDC043 Blood Urea Nitrogen (BUN)Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 50 100
+44 DDC044 Brucella IgG Serology ELISA Serum (1 ml) A/R Daily 24 hours 500 800
+
+=== PAGE 4 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+45 DDC045 Brucella IgM Serology ELISA Serum (1 ml) A/R Daily 24 hours 500 800
+46 DDC046 B-Type Natriuric Peptide (BNP)Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 1200 2000
+47 DDC047 CA125 - Ovarian Cancer markerImmunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 230 500
+48 DDC048 CA15.3 - Breast Cancer markerImmunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 320 600
+49 DDC049 CA19.9 - Pancreatic Cancer 
+Marker Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 320 600
+50 DDC050 Calcitonin Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 800 1200
+51 DDC051 Calcium Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+52 DDC052 Calcium Biochemistry Spectrophotometry Urine (5 m1) & 24 hrs Urine 
+Volume A/R Daily 10 hours 50 100
+53 DDC053 Carbamazepine (Tegretol) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 250 300
+54 DDC054 Carcino Embryonic Antigen (CEA)Immunology Chemiluminescence Serum (1 ml) R/F Daily 10 hours 200 300
+55 DDC055 Cardiolipin  IgM AntibodyImmunology ELISA Serum (1 ml) A/R Daily 24 hours 200 400
+56 DDC056 Cardiolipin IgA Antibody Immunology ELISA Serum (1 ml) A/R Daily 24 hours 200 400
+57 DDC057 Cardiolipin IgG Antibody Immunology ELISA Serum (1 ml) A/R Daily 24 hours 200 400
+58 DDC058 Ceruloplasmin Biochemistry Immunoturbidometry Serum (1 ml) A/R Daily 10 hours 400 700
+59 DDC059 Chikungunya  IgG Serology ELISA Serum (1 ml) A/R Daily 24 hours 300 400
+60 DDC060 Chikungunya  IgM Serology ELISA Serum (1 ml) A/R Daily 24 hours 300 400
+61 DDC061 Chikungunya (Rapid) Biochemistry Immuno Chromotography Serum (1 ml) A/R Daily 10 hours 225 300
+62 DDC062 Chlamydia IgG Immunology ELISA Serum (1 ml) A/R Daily 24 hours 800 1250
+63 DDC063 Chlamydia IgM Immunology ELISA Serum (1 ml) A/R Daily 24 hours 800 1250
+64 DDC064 Chloride Biochemistry ISE Direct Serum (1 ml) A/R Daily 10 hours 60 150
+65 DDC065 Chloride Biochemistry ISE Direct CSF  (l  ml) A/R Daily 10 hours 60 150
+66 DDC066 Chloride Biochemistry ISE Direct Urine (25 ml) A/R Daily 10 hours 60 150
+67 DDC067 Cholesterol - HDL Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 95 200
+68 DDC068 Cholesterol - LDL Only Biochemistry Spectrophotometry Serum (1 ml) NA Daily 10 hours 50 150
+69 DDC069 Cholesterol - Total Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+70 DDC070 Cholinesterase Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 300 500
+71 DDC071 Cocaine Biochemistry Immuno Chromotography Urine (5ml) A Daily 10 hours 300 500
+72 DDC072 Complete Blood Count (CBC)Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 45 100
+
+=== PAGE 5 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+73 DDC073 Complete Blood Picture(CBP)Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 50 150
+74 DDC074 Complete Urine examination Clinical pathlogy strip method Urine (5m1) A Daily 10 hours 40 150
+75 DDC075 Coombs Test - Direct ImmunohaematologyGel Typing WB-EDTA (3 ml) A/R Daily 10 hours 150 250
+76 DDC076 Coombs Test - Indirect ImmunohaematologyGel Typing Serum (1ml) A/R Daily 10 hours 150 250
+77 DDC077 Copper Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 300 500
+78 DDC078 Copper Biochemistry Spectrophotometry Urine (5m1) & 24 hrs Urine A/R Daily 10 hours 300 500
+79 DDC079 Cortisol Serum (3 to 5 PM)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 250 400
+80 DDC080 Cortisol Serum (7 to 9 AM)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 250 400
+81 DDC081 Cortisol Urine  Total Immunology Chemiluminescence Urine (5m1) & 24 hrs Urine A/R Daily 10 hours 250 400
+82 DDC082 C-Peptide Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 400 600
+83 DDC083 C-Reactive Protein (CRP) Biochemistry Immunoturbidometry/Nep 
+hlometry Serum (1ml) A/R Daily 10 hours 100 250
+84 DDC084 Creatine Kinase MB (CK-MB)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 175 300
+85 DDC085 Creatinine Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 50 100
+86 DDC086 Creatinine Biochemistry Spectrophotometry Urine (5m1) & 24 hrs Urine A/R Daily 10 hours 50 100
+87 DDC087 Creatinine Clearance Test Biochemistry Spectrophotometry
+Serum (1ml) & Urine (5m1) 
+24 hrs Urine
+Volume
+A/R Daily 10 hours 100 300
+88 DDC088 Creatinine Kinase (CPK) Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 140 250
+89 DDC089 Dengue (Rapid) Serology Immuno Chromotography Serum (2 ml) A/R Daily 10 hours 500 650
+90 DDC090 Dengue IgG Serology ELISA / Rapid Serum (1ml) A/R Daily 24 hours 450 500
+91 DDC091 Dengue IgM Serology ELISA / Rapid Serum (1ml) A/R Daily 24 hours 450 500
+92 DDC092 Dengue NS1 Antigen Serology ELISA / Rapid Serum (2 ml) A/R Daily 10 hours 700 900
+93 DDC093 Differential Count (DC) Haematology Cell Counter/ Microscopy WB-EDTA (3ml) A Daily 10 hours 45 100
+94 DDC094 Digoxin Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 350 500
+95 DDC095 Drugs of Abuse (6 Drugs) Biochemistry Immuno Chromotography Urine (2ml) A/R Daily 10 hours 1500 2800
+
+=== PAGE 6 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+96 DDC096 Drugs of Abuse (9 Drugs) Biochemistry Immuno Chromotography Urine (2ml) A/R Daily 10 hours 4000 5500
+97 DDC097 Erythrocyte Count (RBC Count)Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A/R Daily 10 hours 60 100
+98 DDC098 Erythrocyte Sedimentation  Rate 
+(ESR) Haematology Westergren's method WB-EDTA (3 ml) A/R Daily 10 hours 50 100
+99 DDC099 Estradiol (E2) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 160 300
+100 DDC100 Estriol, Unconjugated (E3)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 300 450
+101 DDC101 Ferritin Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 170 400
+102 DDC102 Fibrinogen ImmunohaematologyClotting Plasma-Citrated(lml) F Daily 10 hours 400 600
+103 DDC103 Fibrinogen Degradation Product 
+(FDP) Biochemistry Agglutination Plasma- Na Citrated (lml) R/F Daily 10 hours 450 600
+104 DDC104 Fluid Cell Count cytology Microscopy Any Fliud (5 ml) A/R Daily 10 hours 50 100
+105 DDC105 Folate Serum  (Folic Acid)Immunology Chemiluminescence Serum (1ml) R/F Daily 10 hours 450 550
+106 DDC106 Follicle Stimulating Hormone 
+(FSH) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 100 300
+107 DDC107 Gamma Glutamyl Transferase 
+(GGT) Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 60 150
+108 DDC108 Giemsa Stain Haematology Microscopy 5ml Whole Blood - EDTAA Daily 10 hours 50 100
+109 DDC109 Globulin Biochemistry Calculation Serum (1ml) A/R Daily 10 hours 80 100
+110 DDC110 eGlomerular Filtration Rate 
+(eGFR) Biochemistry Spectrophotometry Urine (5 ml) / Serum (1 ml) A/R Daily 10 hours 300 500
+111 DDC111 Glucose - Fasting Biochemistry Spectrophotometry Plasma - NaF (1ml) A/R Daily 10 hours 25 50
+112 DDC112 Glucose - PLBS Biochemistry Spectrophotometry Plasma - NaF (1ml) A/R Daily 10 hours 25 50
+113 DDC113 Glucose - Random Biochemistry Spectrophotometry Plasma - NaF (1ml) A/R Daily 10 hours 25 50
+114 DDC114
+Glucose 6 Phosphate 
+Dehydrogenase(G6PD 
+Quantitative)
+Biochemistry Spectrophotometry WB-EDTA (3ml) A/R Daily 10 hours 250 600
+115 DDC115 Glucose F/PP Biochemistry Spectrophotometry Serum (1ml)/Urine (5 ml) A/R Daily 10 hours 50 100
+116 DDC116 Glycosylated Hemoglobin  
+(GHb/HBAlc) Biochemistry HPLC WB-EDTA (3 ml) A/R Daily 10 hours 200 400
+117 DDC117 Growth Hormone (HGH) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 200 500
+118 DDC118 Haptoglobulin Biochemistry Immunoturbidometry Serum (1ml) A/R Daily 10 hours 700 1200
+
+=== PAGE 7 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+119 DDC119 Hemoglobin Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 50 100
+120 DDC120 Hepatitis A virus - IgM (HAV- 
+IgM) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 350 700
+121 DDC121 Hepatitis A virus - IgM (HAV- 
+IgG) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 350 700
+122 DDC122 Hepatitis A virus - Total (HAV 
+Total) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 350 700
+123 DDC123 Hepatitis B envelope Antibody 
+(Anti HBe) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 300 500
+124 DDC124 Hepatitis B Envelope Antigen 
+(HBeAg) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 300 500
+125 DDC125 Hepatitis B surface Antibody Total 
+(Anti HBs) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 300 500
+126 DDC126 Hepatitis B Surface antigen 
+(HBsAg /Rapid) Serology Immuno Chromotography Serum (1ml) A/R Daily 10 hours 100 200
+127 DDC127 Hepatitis B Surface antigen 
+(HBsAg) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 150 300
+128 DDC128 Hepatitis C Virus (HCV Antibody)Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 200 350
+129 DDC129 Hepatitis C Virus (Rapid) Serology Immuno Chromotography Serum (1ml) A/R Daily 10 hours 120 250
+130 DDC130 Hepatitis Core Antibody IgM (Anti 
+HBc - IgM) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 300 500
+131 DDC131 Hepatitis Core Antibody Total 
+(HBcAb- Total) Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 300 500
+132 DDC132 Hepatitis E virus - IgG (HEV IgG)Serology ELISA Serum (1ml) A/R Daily 24 hours 400 800
+133 DDC133 Hepatitis E virus - IgM (HEV IgM)Serology ELISA Serum (1ml) A/R Daily 24 hours 400 800
+134 DDC134 Herpes Simplex Virus 1 & 2 IgGSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+135 DDC135 Herpes Simplex Virus 1 & 2 IgMSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+136 DDC136 Herpes Simplex Virus 1 IgGSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+137 DDC137 Herpes Simplex Virus 1 IgMSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+
+=== PAGE 8 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+138 DDC138 Herpes Simplex Virus 2 IgGSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+139 DDC139 Herpes Simplex Virus 2 IgMSerology ELISA Serum (1ml) A/R Daily 24 hours 200 300
+140 DDC140 High Sensitive CRP (hs CRP)Biochemistry Immunoturbidometry Serum (1ml) A/R Daily 10 hours 200 250
+141 DDC141 HIV 1 & 2 Antibody Serology ELISA/CLIA Serum (1ml) A/R Daily 24 hours 150 300
+142 DDC142 HIV 1 & 2 Antibody(Rapid)Serology Immuno Chromotography Serum (1ml) A/R Daily 24 hours 100 200
+143 DDC143 HIV  Western Blot Serology Western Blot Serum (1ml) A/R Daily 24 hours 700 1200
+144 DDC144 Homocysteine Immunology Chemiluminescence EDTA Plasma (1m1) Daily 10 hours 500 650
+145 DDC145 Insulin-Fasting Immunology Chemiluminescence Serum (1ml) R/F Daily 10 hours 240 300
+146 DDC146 Insulin-postprandial Immunology Chemiluminescence Serum (1ml) R/F Daily 10 hours 240 300
+147 DDC147 Intact Parathyroid Hormone 
+(iPTH) Immunology Chemiluminescence Serum (1ml) R/F Daily 10 hours 350 600
+148 DDC148 Iron Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 100 200
+149 DDC149 Iron Binding Capacity - Total 
+(TIBC) Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 100 200
+150 DDC150 Lactate Biochemistry Spectrophotometry Plasma - NaF (1ml) R/F Daily 10 hours 400 600
+151 DDC151 Lactate Biochemistry Spectrophotometry CSF  (lml) R/F Daily 10 hours 400 600
+152 DDC152 LE Cells Haematology Microscopy WB-EDTA (3 ml) A Daily 10 hours 100 200
+153 DDC153 Lipase Biochemistry Immunoturbidometry Serum (1ml) A/R Daily 10 hours 170 350
+154 DDC154 Lipoprotein a (Lp-a) Biochemistry Spectrophotometry Serum (1ml) A Daily 10 hours 300 450
+155 DDC155 Lithium (Li) Biochemistry ISE Direct Serum (1ml) A/R Daily 10 hours 150 300
+156 DDC156 lonized Calcium Biochemistry ISE Direct Serum (1ml) A/R Daily 10 hours 200 350
+157 DDC157 Lupus Anticoagulant ImmunohaematologyClotting Na Citrate - Plasma (3 ml / 
+2ml) F Daily 10 hours 1000 1500
+158 DDC158 Luteinising Hormone (LH)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 100 300
+159 DDC159 Magnesium Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 100 200
+160 DDC160 Malarial Falciparum and Vivax 
+Antigen (Parasite V & F) Haematology Immuno Chromotography WB-EDTA (3 ml) A Daily 10 hours 230 400
+161 DDC161 Malarial Parasite IdentificationHaematology Microscopy WB-EDTA (3 ml) A Daily 10 hours 50 100
+162 DDC162 Malarial Parasite IdentificationHaematology QBC Method WB-EDTA (3 ml) A Daily 48 hours 250 500
+163 DDC163 Marijuana Biochemistry Immuno Chromotography Urine - Random (5ml) A Daily 10 hours 300 500
+164 DDC164 Microalbumin Biochemistry Immunoturbidometry Urine - Random (5ml) A/R Daily 10 hours 100 200
+165 DDC165 Microfilaria  Antigen Haematology Immuno Chromotography WB-EDTA (3 ml) A Daily 10 hours 350 750
+
+=== PAGE 9 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+166 DDC166 Microfilaria Detection Haematology Microscopy WB-EDTA (3 ml)  collected 
+at midnight A Daily 10 hours 350 750
+167 DDC167 Myoglobulin Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 500 850
+168 DDC168 Nicotine Biochemistry Immuno Chromotography Urine (20 ml) A/R Daily 24 hours 600 800
+169 DDC169 Nicotine Biochemistry Immuno Chromotography Serum (2 ml) A/R Daily 24 hours 600 800
+170 DDC170 Opiates Biochemistry Immuno Chromotography Urine - Random (5ml) A Daily 10 hours 300 500
+171 DDC171 Oral Glucose Tolerance Test (O-
+GTT) Biochemistry Spectrophotometry Plasma- NaF (3m1) 5 Timed 
+samples A/R Daily 10 hours 150 300
+172 DDC172 Osmolality — Urine Biochemistry Spectrophotometry 
+(Calculated) Urine - Random (5ml) A Daily 10 hours 200 350
+173 DDC173 Osmolality —Serum Biochemistry Spectrophotometry 
+(Calculated) Serum (1ml) A/R Daily 10 hours 200 350
+174 DDC174 PAPP-A Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 600 1200
+175 DDC175 Phenobarbital (Cardinal) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 400 600
+176 DDC176 Phenytoin (Eptoin) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 300 500
+177 DDC177 Phosphorus Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 60 150
+178 DDC178 Phosphorus Biochemistry Spectrophotometry Urine (5ml) & 24 hrs Urine 
+Volume A/R Daily 10 hours 60 150
+179 DDC179 Platelet Count Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A/R Daily 10 hours 50 100
+180 DDC180 Potassium Biochemistry ISE Direct Serum (1ml) A/R Daily 10 hours 60 200
+181 DDC181 Potassium Biochemistry ISE Direct Urine (5ml) & 24 hrs Urine 
+Volume A/R Daily 10 hours 60 200
+182 DDC182 Procalcitonin Immunology Chemiluminescence Serum (1ml) F Daily 24 hours 1000 1500
+183 DDC183 Progesterone Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 200 300
+184 DDC184 Prolactin Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 100 300
+185 DDC185 Prostate Specific Antigen (Free)Immunology Chemiluminescence Serum (1ml) A/R Daily 24 hours 250 450
+186 DDC186 Prostate Specific Antigen (Total)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 250 450
+187 DDC187 Protein - 24 hrs Urine Biochemistry Spectrophotometry Urine (5ml) & 24 hrs Urine 
+Volume A Daily 10 hours 60 100
+188 DDC188 Protein - Fluids Biochemistry Spectrophotometry Any Fliud (5 ml) A Daily 10 hours 60 100
+
+=== PAGE 10 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+189 DDC189 Protein - Random (Spot) Biochemistry Spectrophotometry Urine - Random (5ml) A Daily 10 hours 60 100
+190 DDC190 Protein Total Biochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 60 100
+191 DDC191 Protein Total with AlbuminBiochemistry Spectrophotometry Serum (1ml) A/R Daily 10 hours 100 150
+192 DDC192 Protein/Creatinine Ratio Biochemistry Calculation Urine (5ml) & 24 hrs Urine 
+Volume A Daily 10 hours 100 200
+193 DDC193 Prothrombin Time (PT) ImmunohaematologyClotting Citrated Plasma (lml) F Daily 10 hours 100 200
+194 DDC194 Rapid Plasma Reagin (RPR Test)Serology Flocculation Serum (1ml) A/R Daily 10 hours 100 150
+195 DDC195 Reticulocyte Count Haematology Microscopy WB-EDTA (3 ml) A Daily 10 hours 100 150
+196 DDC196 Rheumatoid Factor (RA test)Serology Immunoturbidometry/Nep 
+hlometry Serum (1ml) A/R Daily 10 hours 125 250
+197 DDC197 Sex Hormone Binding Globulin 
+(SHBG) Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 250 400
+198 DDC198 Sickling test Haematology Deoxygenation/Microscopy WB-EDTA (3 ml) A Daily 24 hours 125 200
+199 DDC199 Sodium Biochemistry ISE Direct Serum (1 ml) A/R Daily 10 hours 70 150
+200 DDC200 Sodium Biochemistry ISE Direct Urine (5 m1) & 24 hrs Urine A/R Daily 10 hours 70 150
+201 DDC201 TB  Gold Quantiferon Serology ELISA Mitogen/Nil/Antigen Tubes R 2 & 5 24 hours 1500 2500
+202 DDC202 Testosterone - Free Immunology ELISA Serum (1 ml) A/R Daily 24 hours 350 550
+203 DDC203 Testosterone - Total Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 150 300
+204 DDC204 Thyroglobulin (TG) Immunology Chemiluminescence Serum (1 ml) R/F Daily 10 hours 300 500
+205 DDC205 Thyroid Stimulating Hormone 
+(TSH) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 50 100
+206 DDC206 Thyroxin Binding Globulin (TBG)Immunology Chemiluminescence Serum (1 ml) A/R Daily 24 hours 600 1000
+207 DDC207 Thyroxine - Free (FT4) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 90 100
+208 DDC208 Thyroxine - Total (TT4) Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 50 100
+209 DDC209 TLC & DLC Haematology Cell Counter/ Microscopy WB-EDTA (3 ml) A Daily 10 hours 60 100
+210 DDC210 Total IgE Immunology Chemiluminescence Serum (1 ml) R/F Daily 10 hours 350 400
+211 DDC211 Toxoplasma gondii - IgG Serology ELISA/CLIA Serum (1 ml) A/R Daily 24 hours 100 200
+212 DDC212 Toxoplasma gondii - IgM Serology ELISA/CLIA Serum (1 ml) A/R Daily 24 hours 100 200
+213 DDC213 Transferrin Biochemistry Immunoturbidometry Serum (1 ml) A/R Daily 10 hours 500 800
+214 DDC214 Treponema Palladium 
+Hemagglutination (TPHA) Serology Agglutination Method Serum (1 ml) A/R Daily 10 hours 300 500
+
+=== PAGE 11 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+215 DDC215 Triglycerides (TGL) Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+216 DDC216 Triiodothyronine Free (FT3)Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 90 100
+217 DDC217 Triiodothyronine Total (TT3)Immunology Chemiluminescence Serum (1 ml) A/R Daily 10 hours 50 100
+218 DDC218 Troponin - I Immunology Chemiluminescence Serum / WB-EDTA (l ml) A/R Daily 10 hours 750 1000
+219 DDC219 Troponin - T Immunology Chemiluminescence Serum/WB-EDTA (1 m1) A/R Daily 10 hours 750 1000
+220 DDC220 Urea Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 50 100
+221 DDC221 Urea Biochemistry Spectrophotometry Urine (5 ml) & 24 hrs Urine A/R Daily 10 hours 50 150
+222 DDC222 Uric Acid Biochemistry Spectrophotometry Serum (1 ml) A/R Daily 10 hours 60 150
+223 DDC223 Uric Acid Biochemistry Spectrophotometry Urine (5 ml) & 24 hrs Urine A/R Daily 10 hours 60 150
+224 DDC224 Urinary Cortisol/Creatinine RatioBiochemistry Spectrophotometry/CLIAUrine (10 ml) & 24 hrs 
+Urine A/R Daily 10 hours 400 500
+225 DDC225 Urine for Chyle Biochemistry Biochemical Urine - Random (5 ml) A/R Daily 10 hours 200 300
+226 DDC226 Valporic Acid  (Sodium Valproate)Immunology Chemiluminescence Serum (1ml) A/R Daily 10 hours 250 400
+227 DDC227 Vitamin - Bl2 Immunology Chemiluminescence Serum (1ml) R/F Daily 10 hours 150 400
+228 DDC228 VMA (Vanillyl Mandelic Acid) - 
+SPOT Biochemistry Biochemical Urine - Random (5ml) A/R Daily 10 hours 200 250
+229 DDC229 VMA (Vanillyl Mandelic Acid) 24 
+hrs Biochemistry Column Chromatography Urine (5 ml) & 24 hrs. Urine A Daily 24 hours750 1000
+230 DDC230 WBC Count Haematology Cell Counter/ Microscopy WB-EDTA (3ml) A Daily 10 hours 60 100
+231 DDC231 Wei1 - Felix Test Serology Heterophile agglutination Serum (1ml) A Daily 10 hours 400 750
+232 DDC232 Widal Test (Slide Test) Serology Slide Agglutination Serum (1ml) A Daily 10 hours 50 100
+233 DDC233 Widal Test (Tube Test) Serology Tube Agglutination Serum (1ml) A Daily 24 hours 100 150
+234 DDCP001 PT, APTT Profile Biochemistry Clotting Citrated Plasma (l ml) F Daily 10 hours 100 200
+235 DDCP002
+Plasma(NaF) Plasma (Na. 
+Citrate, Serum, EDTA 
+Blood, Urine
+A/R/F Daily 10 hours 500 750
+236 DDCP003 EDTA Blood, Serum A/R Daily 10 hours 1200 2200
+Antenatal Profile-1-(46 Tests) (Creatinine, Glucose - Random, Complete Urine 
+Analysis (CUE),  Blood Grouping (A,B,O) and RH Factor, Complete Blood Picture 
+(CBP), Hepatitis B Surface antigen
+(HBsAg)-Rapid, HIV 1 & 2 Antibody-Rapid, HCV Rapid, Plasma Reagin (RPR Test, 
+PT, APTT)
+Cancer Profile-Male (25 Tests) (CBP, CEA, AFP, Beta HCG, CA19.9, PSA Total)
+
+=== PAGE 12 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+237 DDCP004 EDTA Blood, Serum A/R Daily 10 hours 1600 2500
+238 DDCP005 Serum (1 ml) A/R Daily 10 hours 425 750
+239 DDCP006 Serum (1 ml) A/R Daily 10 hours 500 1500
+240 DDCP007 Plasma(NaF), Serum, EDTA 
+Blood, Urine A/R Daily 10 hours 850 1400
+241 DDCP008 Serum (1 ml) A/R Daily 10 hours 110 280
+242 DDCP009 Serum (1 ml) A/R Daily 10 hours 200 700
+243 DDCP010 Serum (1 ml) A/R Daily 10 hours 400 1200
+244 DDCP011 Serum (1 ml) A/R Daily 10 hours 250 800
+245 DDCP012 Serum (1 ml) A/R Daily 10 hours 360 800
+246 DDCP013 EDTA Blood, Serum,Urine A/R Daily 10 hours 220 350
+247 DDCP014 Serum (1 ml) A/R Daily 10 hours 600 800
+248 DDCP015 Serum (1 ml) A/R Daily 10 hours 600 800
+249 DDCP016 Serum (1 ml) A/R Daily 10 hours 130 550
+250 DDCP017 Serum (1 ml) Fasting A/R Daily 10 hours 100 400
+251 DDCP018 Plasma(NaF), Serum, EDTA 
+Blood A/R Daily 10 hours 305 800
+252 DDCP019 Serum (1 ml) A/R Daily 10 hours 115 500
+Fertility Profile – II (LH, FSH, PRL, E2, TSH)
+Fertility Profile – III (FSH, LH, PRL,TSH)
+Fertility Profile-I (FSH,LH, PRL)
+Cancer Screening - Female (25 Tests) (CBP, CEA, AFP, Beta HCG, 
+CA19.9,CA125,CA15.3)
+Cardiac Profile (04 Tests) (Aspartate Aminotransferase (AST/SGOT),Creatinine Kinase 
+MB (CK-MB), Creatinine Kinase (CPK), Lactate Dehydrogenase (LDH))
+Dengue Profile(IgG.IgM,NS1 Ag)--Rapid
+Diabetic Profile (15 Tests) (Lipid Profile, UA, Creatinine, Blood Sugar
+(Fast&PP), HBA1c,Insulin,Microalbuminuria(urine)
+Electrolyte Profile- (Sodium, Potassium, Chloride)
+Fertility Profile – IV (FSH, LH, PRL, TESTO)
+Fever Profile (48 Tests) (CBP, CUE, Widal, MP, ESR)
+Iron Profile-I (Iron,TIBC,Transfarin,Iron Saturation)
+Iron Profile-II (Iron, TIBC, Transfarin, Iron Saturation Index,Ferritin)
+Kidney Profile (Urea, BUN,Creatinine, Uric Acid, Sodium, Potassium, Chloride)
+(Cholesterol Total, Cholesterol – HDL, Cholesterol– LDL, Triglycerides, Cholesterol VLDL,Total cholesterol/HDLratio,  LDL / HDL Ratio.)
+DDC Care profile (20 Tests)(Cholesterol Total, Cholesterol – HDL, Cholesterol– LDL, 
+Triglycerides, Total cholesterol/HDLratio, Cholesterol VLDL, LDL / HDL Ratio.Urea, 
+creatinine, RBS, CBP)
+Liver Profile (11 Tests) 
+Bilirubin Total, Bilirubin Direct, Indirect Bilirubin, Alanine Transaminase (ALT/SGPT), 
+Aspartate Aminotransferase (SGOT), Alkaline Phosphatase (ALP), Gamma Glutamyl 
+Transferase(GGT),)  Total protein, Albumin, Globulin, A/G Ratio
+
+=== PAGE 13 ===
+Sl.No Test CODE Investigation Department Methodology Sample Temp. Schedule Reported B2B MRP
+Directory of services
+DARITHRI DIAGNOSTIC CENTRE
+Version: 01 Issue Date:10/03/2025
+253 DDCP020 Plasma(NaF), Serum, EDTA 
+Blood, Urine A/R Daily 10 hours 900 3450
+254 DDCP021 Plasma(NaF), Serum, EDTA 
+Blood, Urine A/R Daily 10 hours 1300 3500
+255 DDCP022 Plasma(NaF), Serum, EDTA 
+Blood, Urine A/R Daily 10 hours 1400 3750
+256 DDCP023 Plasma(NaF), Serum , 
+EDTA Blood A/R Daily 10 hours 350 800
+257 DDCP024 Serum (1 ml) A/R Daily 10 hours 75 400
+258 DDCP025 Serum (1 ml) A/R Daily 10 hours 175 500
+259 DDCP026 Serum (1 ml) A/R Daily 10 hours 325 900
+260 DDCP027 Serum (1 ml) A/R Daily 10 hours 140 450
+261 DDCP028 Serum (1 ml) A/R Daily 10 hours 175 450
+262 DDCP029 Serum (1 ml) A/R Daily 10 hours 650 1800
+263 DDCP030 Serum (1 ml) A/R Daily 10 hours 1000 2000
+Note: Reporting hours will start form the time of registration before the cutoff time
+DDC- Health Profile I (47 Tests ): (Lipid Profile, Liver Profile, Kidney Profile, CBP, 
+ESR, Glucose Random, Calcium, HbA1c, Iron Profile-I, Thyroid Profile).
+Thyroid Profile - V (T3, T4, TSH, PRL)
+DDC- Health Check Profile-II (58 Tests):(Lipid Profile, Liver Profile, Kidney Profile, 
+CBP, ESR, CUE, Glucose Random, Calcium, HbA1c, Thyroid Profile I, Vitamin B12, 25 
+OH Vitamin D).
+Triple Marker (Beta HCG, AFP, E3)
+Torch 10 Profile (Toxo, Rubella, CMC, HSV1 and 2 IgG, IgM)
+DDC-Health Check Profile:III (60 Tests) Lipid Profile, Liver Profile, Kidney Profile, 
+CBP, ESR, CUE, Glucose Random, Calcium, HbA1C, Thyroid
+Profile I - Vitamin B12, 25 OH Vitamin D, Microalbumin, Phosphorous)
+Surgical Profile-I (19 Tests) CBP,ESR, Blood grouping & RH typing, Rapid - HIV, 
+HBsAg, HCV, Glucose Random).
+Thyroid Profile-I (T3, T4, TSH)
+Thyroid Profile-II (T3, T4, TSH, FT3, FT4)
+Thyroid Profile - III (T3, T4, TSH, LH, FSH, PRL)
+Thyroid Profile - IV (FT3, FT4, TSH,)
