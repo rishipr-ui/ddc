@@ -1,4 +1,4 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import json
 import re
@@ -8,7 +8,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-PDF_PATH = Path(r"C:\Users\nanda kumar\Downloads\DDC-Directory services-01.pdf")
+PDF_PATH = PROJECT_ROOT / "Directory of services-13.04.26 .pdf"
 OUTPUT_PATH = PROJECT_ROOT / "src" / "data" / "ddc-tests.json"
 
 NOISE_LINES = [
